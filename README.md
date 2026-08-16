@@ -14,7 +14,6 @@ Building the Web • Analyzing Data • Engineering the Future of AI
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rahul-kaushik-jena-dev&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/rahul-kaushik-jena-dev?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/rahul-kaushik-jena-dev?style=for-the-badge" />
 </p>
 
 ---
@@ -26,9 +25,9 @@ Building the Web • Analyzing Data • Engineering the Future of AI
 - 💻 Full-Stack Developer
 - 🤖 AI & Machine Learning Enthusiast
 - 🌱 Currently learning **Sheryians Coding School 3.0 - Job Ready AI Powered Cohort**
-- 🎯 Goal: **Become an AI Engineer**
+- 🎯 Goal: **AI Engineer**
 - 💬 Ask me about **Full-Stack Development, Python, SQL, Power BI, and Machine Learning**
-- 📫 **Email:** rahulkaushikjena@gmail.com
+- 📫 **Email:** **rahulkaushikjena@gmail.com**
 
 ---
 
@@ -40,12 +39,8 @@ Building the Web • Analyzing Data • Engineering the Future of AI
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.kaggle.com/rahulkaushikjena">
-<img src="https://skillicons.dev/icons?i=kaggle" />
-</a>
-
-<a href="mailto:rahulkaushikjena@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.kaggle.com/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48"/>
 </a>
 
 </p>
@@ -56,7 +51,7 @@ Building the Web • Analyzing Data • Engineering the Future of AI
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,mongodb,mysql,git,github,linux,tailwind,tensorflow,pytorch&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,git,github,linux,docker,tailwind,tensorflow,pytorch&perline=7"/>
 
 </p>
 
@@ -66,9 +61,9 @@ Building the Web • Analyzing Data • Engineering the Future of AI
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul-kaushik-jena-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahul-kaushik-jena-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-kaushik-jena-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-kaushik-jena-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -78,35 +73,37 @@ Building the Web • Analyzing Data • Engineering the Future of AI
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=rahul-kaushik-jena-dev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rahul-kaushik-jena-dev&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-kaushik-jena-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-kaushik-jena-dev&theme=tokyo-night&hide_border=true" />
 
 </p>
 
 ---
 
-## 📦 GitHub Summary
+## 📦 GitHub Profile Summary
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-kaushik-jena-dev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-kaushik-jena-dev&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-kaushik-jena-dev&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-kaushik-jena-dev&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-kaushik-jena-dev&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-kaushik-jena-dev&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahul-kaushik-jena-dev&theme=tokyonight" />
 
 </p>
 
@@ -116,7 +113,7 @@ Building the Web • Analyzing Data • Engineering the Future of AI
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahul-kaushik-jena-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rahul-kaushik-jena-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </p>
 
@@ -137,20 +134,12 @@ Building the Web • Analyzing Data • Engineering the Future of AI
 
 ```text
 Python             ██████████░░ 85%
-
 SQL                ██████████░░ 85%
-
 Power BI           ███████████░ 90%
-
 Machine Learning   ████████░░░░ 70%
-
 Deep Learning      ██████░░░░░░ 55%
-
 Generative AI      █████░░░░░░░ 45%
-````
-
----
-
+``
 
 
 <p align="center">
@@ -158,5 +147,6 @@ Generative AI      █████░░░░░░░ 45%
 ⭐ Thanks for visiting my profile ⭐
 
 </p>
-```
+````
+
 
