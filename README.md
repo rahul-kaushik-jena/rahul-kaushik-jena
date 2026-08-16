@@ -1,6 +1,3 @@
-#
-
-````markdown
 <h1 align="center">Hi 👋, I'm Rahul Kaushik Jena</h1>
 
 <h3 align="center">
@@ -200,5 +197,3 @@ Generative AI     █████░░░░░░░ 45%
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
-````
-
