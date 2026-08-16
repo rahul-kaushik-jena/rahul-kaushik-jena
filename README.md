@@ -1,11 +1,14 @@
+#
+
+````markdown
 <h1 align="center">Hi 👋, I'm Rahul Kaushik Jena</h1>
 
 <h3 align="center">
-Building the Web • Analyzing the Data • Engineering the Future of AI
+Building the Web • Analyzing Data • Engineering the Future of AI
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Data+Analyst;Machine+Learning+Enthusiast;Future+AI+Engineer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Data+Analyst;Machine+Learning+Enthusiast;Future+AI+Engineer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -23,9 +26,9 @@ Building the Web • Analyzing the Data • Engineering the Future of AI
 - 💻 Full-Stack Developer
 - 🤖 AI & Machine Learning Enthusiast
 - 🌱 Currently learning **Sheryians Coding School 3.0 - Job Ready AI Powered Cohort**
-- 💬 Ask me about **Full-Stack Development, Data Analytics and Machine Learning**
-- 🎯 Goal: **AI Engineer**
-- 📫 Email: **rahulkaushikjena@gmail.com**
+- 🎯 Goal: **Become an AI Engineer**
+- 💬 Ask me about **Full-Stack Development, Python, SQL, Power BI, and Machine Learning**
+- 📫 **Email:** rahulkaushikjena@gmail.com
 
 ---
 
@@ -33,12 +36,16 @@ Building the Web • Analyzing the Data • Engineering the Future of AI
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_PROFILE">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.kaggle.com/rahul_kaushik_jena">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="48" height="48"/>
+<a href="https://www.kaggle.com/rahulkaushikjena">
+<img src="https://skillicons.dev/icons?i=kaggle" />
+</a>
+
+<a href="mailto:rahulkaushikjena@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -49,19 +56,19 @@ Building the Web • Analyzing the Data • Engineering the Future of AI
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,git,github,linux,docker,tailwind,tensorflow,pytorch&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,mongodb,mysql,git,github,linux,tailwind,tensorflow,pytorch&perline=8"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahul-kaushik-jena-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul-kaushik-jena-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-kaushik-jena-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-kaushik-jena-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -77,21 +84,11 @@ Building the Web • Analyzing the Data • Engineering the Future of AI
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-kaushik-jena-dev&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahul-kaushik-jena-dev&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-kaushik-jena-dev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -105,84 +102,56 @@ Building the Web • Analyzing the Data • Engineering the Future of AI
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-kaushik-jena-dev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-kaushik-jena-dev&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahul-kaushik-jena-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
 ---
 
 ## 📌 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">📊 Retail Sales Analysis</h3>
-
-- Excel
-- Power BI
-- Data Cleaning
-- Dashboard Development
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🛒 E-Commerce Sales Analysis</h3>
-
-- KPI Dashboard
-- Customer Analysis
-- Sales Analysis
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">📦 Supply Chain & Inventory Analysis</h3>
-
-- Supplier Performance
-- Inventory Optimization
-- Delivery Analysis
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📈 Sales Forecasting & Demand Prediction</h3>
-
-- Python
-- Forecasting
-- Machine Learning
-
-</td>
-
-</tr>
-
-</table>
+| Project | Technology |
+| --- | --- |
+| 📊 Retail Sales Analysis | Excel • Power BI |
+| 🛒 E-Commerce Sales Analysis | Excel • Power BI |
+| 📦 Supply Chain & Inventory Analysis | Power BI • SQL |
+| 📈 Sales Forecasting & Demand Prediction | Python • Machine Learning |
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Python            ██████████░░ 85%
+Python             ██████████░░ 85%
 
-SQL               ██████████░░ 85%
+SQL                ██████████░░ 85%
 
-Power BI          ███████████░ 90%
+Power BI           ███████████░ 90%
 
-Machine Learning  ████████░░░░ 70%
+Machine Learning   ████████░░░░ 70%
 
-Deep Learning     ██████░░░░░░ 55%
+Deep Learning      ██████░░░░░░ 55%
 
-Generative AI     █████░░░░░░░ 45%
-```
+Generative AI      █████░░░░░░░ 45%
+````
 
 ---
 
-## ✨ Developer Quote
+## ✨ Random Dev Quote
 
 <p align="center">
 
@@ -192,8 +161,10 @@ Generative AI     █████░░░░░░░ 45%
 
 ---
 
-<h3 align="center">
+<p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile ⭐
 
-</h3>
+</p>
+```
+
